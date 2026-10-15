@@ -1,0 +1,4 @@
+Nome	Idade	CPF
+Carolina	28	00000000012
+Pedro	18	01234567890
+Fernando	30	12345678900
